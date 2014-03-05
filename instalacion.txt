@@ -1,0 +1,7 @@
+Crear la carpeta 'es' o 'es-es' (depende de si usas idioma 'español' o 'español internacional' es una u otra) en la ruta:
+
+raiz_de_tu_moodle/mod/attendanceregister/lang
+
+Copia dentro de la carpeta que has creado el archivo attendanceregister.php
+
+Moodle detecta el idioma que usas y carga automáticamente la traducción (cuidado con la cache de moodle)
